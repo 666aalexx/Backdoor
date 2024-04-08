@@ -14,7 +14,7 @@
 ```
   apt install netcat
 
-  nc ip 4444
+  nc target 4444
 ```
 
 ### Usage
